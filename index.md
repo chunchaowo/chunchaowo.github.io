@@ -49,7 +49,7 @@
 
 ###  一些找到我的方式：
 
-Blog: [Chako's Blog](https://chako.xlog.app/)
+Blog: [Chako's Posts Repository](https://blog.chako.moe/)
 
 Email: <i@chako.moe>
 
